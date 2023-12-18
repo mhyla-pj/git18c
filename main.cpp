@@ -3,6 +3,7 @@ using namespace std;
 int main(){
 	int a;
 	cin>>a;
+	cout<<"dodawanie";
 	cout<< a+10<<endl;
 	cout<<"odejmowanie";
 	cout<<a-10<<endl;
